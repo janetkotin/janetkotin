@@ -1,4 +1,4 @@
-I'm Janet Kristina Otin,  a student at the United States University-Africa studying Applied Computer Technology.<br> <br>I am interested in machine learning, software engineering, AI and robotics, and enjoy building projects that would solve real-world problems.<br><br>I am currently working on building a technical portfolio that would aid in finding opportunities in my desired niche that is applications of computer science in aviation. 
+I'm Janet Kristina Otin,  a student at the United States University-Africa studying Applied Computer Technology.<br> <br>I am interested in machine learning, software engineering, AI and robotics, and enjoy building projects that would solve real-world problems.<br><br>I am currently working on building a technical portfolio that would aid in finding opportunities in my desired niche in applications of computer science in aviation. 
 
 
 ## 🌐 Socials:
